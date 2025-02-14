@@ -9,6 +9,5 @@ Sou um entusiasta de sistemas operacionais, especialmente Unix, e um fervoroso d
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/ribeiro-boll/)
-- [Email](mailto:luccajetx@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-boll&layout=compact&theme=dark)
