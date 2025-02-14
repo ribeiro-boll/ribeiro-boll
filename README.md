@@ -10,5 +10,4 @@ Sou um entusiasta de sistemas operacionais, especialmente Unix, e um fervoroso d
 - [LinkedIn](https://www.linkedin.com/in/ribeiro-boll/)
 - [Email](mailto:luccajetx@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiro-boll)](https://github.com/ribeiro-boll/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=ribeiro-boll)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-boll)
