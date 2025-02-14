@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, Eu sou Lucca 👋
 
-<!--
-**ribeiro-boll/ribeiro-boll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta de sistemas operacionais, especialmente Unix, e um fervoroso defensor do movimento open-source. Atualmente, curso Ciência da Computação e adoro aplicar novas técnicas e tecnologias em meus projetos. 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+- Linguagens: C e Python
+- Tecnologias: Unix, Linux, Git, Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/ribeiro-boll/)
+- [Email](mailto:luccajetx@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiro-boll)](https://github.com/ribeiro-boll/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=ribeiro-boll)
