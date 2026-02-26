@@ -4,8 +4,8 @@ Sou um entusiasta de sistemas operacionais, especialmente Unix, e um fervoroso d
 
 ![tux](https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif)
 ## 🛠️ Habilidades
-- Linguagens: C e Python
-- Tecnologias: Unix, Linux, Git, Open Source
+- Linguagens: Java, C e Python
+- Tecnologias: Unix, Linux, Git, Spring, Spring Boot, Spring Data, SQL  
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/ribeiro-boll/)
