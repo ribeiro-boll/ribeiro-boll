@@ -44,7 +44,7 @@ Gosto de entender profundamente como as coisas funcionam por baixo dos panos, ex
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat\&logo=spring-boot\&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-black?style=flat\&logo=jsonwebtokens)
   ![REST API](https://img.shields.io/badge/API-REST-blue?style=flat)
-  sistema distribuído de monitoramento de máquinas com API REST segura (Spring Boot + JWT) e agente em Java para coleta de métricas via HTTP/JSON
+  * sistema distribuído de monitoramento de máquinas com API REST segura (Spring Boot + JWT) e agente em Java para coleta de métricas via HTTP/JSON
 
 ---
 
@@ -53,7 +53,7 @@ Gosto de entender profundamente como as coisas funcionam por baixo dos panos, ex
   ![Sockets](https://img.shields.io/badge/Sockets-TCP/IP-informational?style=flat)
   ![Threads](https://img.shields.io/badge/Threads-POSIX-yellow?style=flat)
   ![HTTP](https://img.shields.io/badge/Protocol-HTTP-lightgrey?style=flat)
-  servidor HTTP em C para upload de arquivos, utilizando sockets TCP/IP e thread pool próprio para processamento concorrente de requisições
+  * servidor HTTP em C para upload de arquivos, utilizando sockets TCP/IP e thread pool próprio para processamento concorrente de requisições
 
 ---
 
@@ -62,7 +62,7 @@ Gosto de entender profundamente como as coisas funcionam por baixo dos panos, ex
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat\&logo=spring-boot\&logoColor=white)
   ![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=flat)
   ![Streaming](https://img.shields.io/badge/Streaming-Enabled-blue?style=flat)
-  sistema de armazenamento de arquivos com upload em chunks e download via streaming, utilizando Spring Boot, JPA/Hibernate e persistência de metadados
+  * sistema de armazenamento de arquivos com upload em chunks e download via streaming, utilizando Spring Boot, JPA/Hibernate e persistência de metadados
 
 ---
 
@@ -71,7 +71,7 @@ Gosto de entender profundamente como as coisas funcionam por baixo dos panos, ex
   ![Linux](https://img.shields.io/badge/Linux-GNU/Linux-black?style=flat\&logo=linux)
   ![ncurses](https://img.shields.io/badge/UI-ncurses-green?style=flat)
   ![Concurrency](https://img.shields.io/badge/Concurrency-Threads-red?style=flat)
-  gerenciador de processos em C para Linux com foco em ser leve e possuir uma UI compacta, oferecendo monitoramento em tempo real através de leitura de /proc, concorrência e interface em ncurses
+  * gerenciador de processos em C para Linux com foco em ser leve e possuir uma UI compacta, oferecendo monitoramento em tempo real através de leitura de /proc, concorrência e interface em ncurses
 
 ---
 
