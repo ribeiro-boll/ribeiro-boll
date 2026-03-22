@@ -48,21 +48,23 @@ Gosto de entender profundamente como as coisas funcionam por baixo dos panos, ex
 
 ---
 
-* [**C-Storage-Server**](https://github.com/ribeiro-boll/C-Storage-Server)
-  ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
-  ![Sockets](https://img.shields.io/badge/Sockets-TCP/IP-informational?style=flat)
-  ![Threads](https://img.shields.io/badge/Threads-POSIX-yellow?style=flat)
-  ![HTTP](https://img.shields.io/badge/Protocol-HTTP-lightgrey?style=flat)
-  * servidor HTTP em C para upload de arquivos, utilizando sockets TCP/IP e thread pool próprio para processamento concorrente de requisições
-
----
-
 * [**SpringBootNAS**](https://github.com/ribeiro-boll/SpringBootNAS)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=java\&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat\&logo=spring-boot\&logoColor=white)
   ![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=flat)
   ![Streaming](https://img.shields.io/badge/Streaming-Enabled-blue?style=flat)
   * sistema de armazenamento de arquivos com upload em chunks e download via streaming, utilizando Spring Boot, JPA/Hibernate e persistência de metadados
+
+
+
+---
+
+* [**C-Storage-Server**](https://github.com/ribeiro-boll/C-Storage-Server)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+  ![Sockets](https://img.shields.io/badge/Sockets-TCP/IP-informational?style=flat)
+  ![Threads](https://img.shields.io/badge/Threads-POSIX-yellow?style=flat)
+  ![HTTP](https://img.shields.io/badge/Protocol-HTTP-lightgrey?style=flat)
+  * servidor HTTP em C para upload de arquivos, utilizando sockets TCP/IP e thread pool próprio para processamento concorrente de requisições
 
 ---
 
