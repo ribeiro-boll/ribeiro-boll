@@ -80,7 +80,7 @@ Gosto de entender profundamente como as coisas funcionam por baixo dos panos, ex
 ## Contato
 
 * Currículo: ![Link](https://github.com/ribeiro-boll/ribeiro-boll/blob/main/LuccaGuimaraes-Curriculo-2026.pdf)
-* LinkedIn: ![Link](https://www.linkedin.com/in/ribeiro-boll/)
+* LinkedIn: https://www.linkedin.com/in/ribeiro-boll/
 
 ---
 
@@ -160,7 +160,7 @@ I enjoy deeply understanding how things work under the hood, exploring everythin
 ## Contact
 
 * Resume: ![Link](https://github.com/ribeiro-boll/ribeiro-boll/blob/main/LuccaGuimaraes-Curriculo-2026.pdf)
-* LinkedIn: ![Link](https://www.linkedin.com/in/ribeiro-boll/)
+* LinkedIn: https://www.linkedin.com/in/ribeiro-boll/
 
 ---
 
