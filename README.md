@@ -103,8 +103,8 @@ Sistema distribuído de monitoramento de máquinas com API REST segura e agente 
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ribeiro-boll&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-boll&layout=compact&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ribeiro-boll&show_icons=true&theme=dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ribeiro-boll&layout=compact&theme=dark)
 
 ---
 
@@ -216,8 +216,8 @@ Distributed machine monitoring system with a secure REST API and a Java agent fo
 
 ## 📊 Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ribeiro-boll&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-boll&layout=compact&theme=dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ribeiro-boll&show_icons=true&theme=dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ribeiro-boll&layout=compact&theme=dark)
 
 ---
 
